@@ -9,10 +9,10 @@ BasicInfo:
       Info: <a class="contact__link" href="https://bennysbytes.dev" target="_blank">Benny's Bytes (Blog)</a>
     - Icon: fab fa-linkedin-in
       Info: <a class="contact__link" href="https://linkedin.com/in/benvilnis" target="_blank">LinkedIn</a>
-    - Icon: fab fa-github
-      Info: <a class="contact__link" href="https://github.com/bvilnis" target="_blank">GitHub</a>
+    # - Icon: fab fa-github
+    #   Info: <a class="contact__link" href="https://github.com/bvilnis" target="_blank">GitHub</a>
 
-Profile: As an Engineering Manager with extensive experience in DevOps and Site Reliability Engineering, I thrive on fostering innovation and collaboration within my teams. My journey has taken me from hands-on technical roles to leadership positions, where I've successfully led cross-functional teams in delivering robust observability solutions and driving strategic initiatives. I am passionate about empowering team members through mentorship and promoting a culture of extreme ownership. With a strong foundation in infrastructure automation and incident management, I am dedicated to enhancing operational excellence and ensuring seamless service delivery.
+Profile: As an Engineering Manager with extensive experience in DevOps and Site Reliability Engineering, I thrive on fostering innovation and collaboration within my teams. My journey has taken me from hands-on technical roles to leadership positions, where I've successfully led cross-functional teams in delivering robust observability solutions and driving strategic initiatives. I am passionate about empowering team members through mentorship and promoting a culture of extreme ownership.
 
 Experience:
   - Employer: Kindred Group
@@ -99,7 +99,7 @@ Skills:
 Interests:
   - Firefighting
   - Writing
+  - Podcasting
   - Music
   - Philosophy
   - History
-  - Geopolitics
