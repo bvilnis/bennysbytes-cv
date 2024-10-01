@@ -1,0 +1,43 @@
+# Hugo default output directory
+/public/
+
+# Hugo generated resources
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary files
+.hugo_build.lock
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Dependency directories (remove the comment below to include it)
+# /node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Other common files to ignore
+*.swp
+*.swo
+*~

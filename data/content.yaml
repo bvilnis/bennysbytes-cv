@@ -1,0 +1,105 @@
+BasicInfo:
+  FirstName: Ben
+  LastName: Vilnis
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-map-marker-alt
+      Info: Sydney, Australia
+    - Icon: fas fa-blog
+      Info: <a class="contact__link" href="https://bennysbytes.dev" target="_blank">Benny's Bytes (Blog)</a>
+    - Icon: fab fa-linkedin-in
+      Info: <a class="contact__link" href="https://linkedin.com/in/benvilnis" target="_blank">LinkedIn</a>
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/bvilnis" target="_blank">GitHub</a>
+
+Profile: As an Engineering Manager with extensive experience in DevOps and Site Reliability Engineering, I thrive on fostering innovation and collaboration within my teams. My journey has taken me from hands-on technical roles to leadership positions, where I've successfully led cross-functional teams in delivering robust observability solutions and driving strategic initiatives. I am passionate about empowering team members through mentorship and promoting a culture of extreme ownership. With a strong foundation in infrastructure automation and incident management, I am dedicated to enhancing operational excellence and ensuring seamless service delivery.
+
+Experience:
+  - Employer: Kindred Group
+    Place: Sydney, Australia
+    Positions:
+      - Title: Engineering Manager
+        Date: Mar 2024 - Present
+        Details:
+          - Transitioned from individual contributor to leadership.
+          - Led the SRE team to build and deliver an enterprise-ready observability solution.
+          - Established 'SRE Office Hours' to upskill the engineering org across multiple timezones.
+          - Provided technical vision and direction for business stakholders, including C-Suite.
+          - Mentored and championed team members through to promotions.
+          - Introduced <i>extreme ownership</i>, empowering team members to own successes and failures.
+        Badges: ['Team leadership', 'Product management', 'Technical vision', 'Stakeholder management', 'Mentorship']
+      - Title: Site Reliability Engineer
+        Date: Nov 2022 - Mar 2024
+        Details:
+          - Introduced SRE principles and practices from 'the Google SRE book'.
+          - Migrated workflows from monitoring known-unknowns, to observing unknown-unknowns.
+          - Introduced OpenTelemetry and instrumenting wide-structured events to development teams.
+          - Developed and delivered an incident response and management framework.
+          - Began migration from metrics alerting, to multi-threshold error budget burn rate alerting.
+        Badges: ['Grafana', 'Prometheus', 'Thanos', 'Tempo', 'Loki', 'OpenTelemetry', 'Kubernetes']
+  - Employer: SafetyCulture
+    Place: Sydney, Australia
+    Positions:
+      - Title: Infrastructure Engineer
+        Date: Dec 2020 - Oct 2022
+        Details:
+          - Worked on the scripting and automation of various infrastructure/platform tasks.
+          - Maintained and optimised Elasticsearch, Grafana and Prometheus deployments.
+          - Managed various AWS resources, including EKS, S3, EC2, RDS, Route53, CloudFront, VPC.
+          - Participated in on-call rotations, incident management, and postmortems.
+          - Engaged in third-party vendor management and negotiations.
+        Badges: ['AWS', 'Kubernetes', 'Helm', 'Elasticsearch', 'Grafana', 'Prometheus', 'CI/CD']
+  - Employer: Envato
+    Place: Remote, Australia
+    Positions:
+      - Title: Junior DevOps Engineer
+        Date: Oct 2018 - Nov 2020
+        Details:
+          - Migrated the provisioning of infrastructure from in-house tooling to Terraform ecosystem.
+          - Introduced and implemented the concepts of composable infrastructure.
+          - Wrote CI/CD pipelines in Buildkite to automate infrastructure-as-code deployments.
+          - Assisted in the management of multiple infrastructure platforms across AWS and Heroku.
+          - Multiple secondments in feature teams to learn and understand the developer experience.
+        Badges: ['AWS', 'Heroku', 'Terraform', 'CloudFormation', 'Datadog', 'Buildkite', 'Scripting']
+
+Skills:
+  - Family: Engineering Management
+    Items:
+      - People Management
+      - Mentorship & growth
+      - Product management
+      - Strategic planning
+      - Technical vision
+      - Stakeholder management.
+  - Family: Site Reliability Engineering
+    Items:
+      - Observability
+      - Service levels
+      - Error budget alerting
+      - Incident response
+      - Postmortems
+      - Capacity planning.
+  - Family: DevOps & Infrastructure
+    Items:
+      - Linux
+      - Networking
+      - Kubernetes
+      - AWS
+      - Infrastructure-as-code
+      - Composable infrastructure
+      - CI/CD
+      - Automation.
+  - Family: Misc
+    Items:
+      - Writing
+      - Content creation
+      - Meetup talks
+      - Professional networking.
+
+Interests:
+  - Firefighting
+  - Writing
+  - Music
+  - Philosophy
+  - History
+  - Geopolitics
