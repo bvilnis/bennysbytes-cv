@@ -12,11 +12,12 @@ default: help
 .PHONY: help
 help:
 	@echo "Available commands:"
-	@echo "  make build    - Build the Hugo site"
-	@echo "  make serve    - Serve the site locally"
-	@echo "  make new      - Create a new content file"
-	@echo "  make clean    - Remove generated files"
-	@echo "  make deploy   - Deploy the site (customize as needed)"
+	@echo "  make build        - Build the Hugo site"
+	@echo "  make serve        - Serve the site locally"
+	@echo "  make new          - Create a new content file"
+	@echo "  make clean        - Remove generated files"
+	@echo "  make deploy       - Deploy the site (customize as needed)"
+	@echo "  make update-theme  - Pull changes for the submodule (theme)"
 
 # Build the site
 .PHONY: build
@@ -45,3 +46,8 @@ deploy: build
 	@echo "Deploying the site..."
 	# Add your deployment commands here
 	@echo "Deployment complete."
+
+# Pull changes for the submodule (theme)
+.PHONY: update-theme
+update-theme:
+	git submodule update --remote --merge
