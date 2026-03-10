@@ -12,10 +12,10 @@ BasicInfo:
     # - Icon: fab fa-github
     #   Info: <a class="contact__link" href="https://github.com/bvilnis" target="_blank">GitHub</a>
 
-Profile: As an Engineering Manager with extensive experience in DevOps and Site Reliability Engineering, I thrive on fostering innovation and collaboration within my teams. My journey has taken me from hands-on technical roles to leadership positions, where I've successfully led cross-functional teams in delivering robust observability solutions and driving strategic initiatives. I am passionate about empowering team members through mentorship and promoting a culture of extreme ownership.
+Profile: As an Engineering Manager with technical experience in DevOps, platform engineering, and site reliability engineering, I thrive on fostering innovation and collaboration within my teams. My journey has taken me from hands-on technical roles to leadership positions, where I've successfully led cross-functional teams in delivering robust observability solutions and driven strategic vision and initiatives with business stakholders. I am passionate about empowering team members through mentorship and promoting a culture of extreme ownership, where team members own their work both within the team and to external stakeholders.
 
 Experience:
-  - Employer: Kindred Group
+  - Employer: FDJ United
     Place: Sydney, Australia
     Positions:
       - Title: Engineering Manager
@@ -26,16 +26,18 @@ Experience:
           - Established 'SRE Office Hours' to upskill the engineering org across multiple timezones.
           - Provided technical vision and direction for business stakholders, including C-Suite.
           - Mentored and championed team members through to promotions.
-          - Introduced <i>extreme ownership</i>, empowering team members to own successes and failures.
+          - Managed roll out of 'Four Golden Signals' SLIs for 95 services across 10 teams.
+          - Worked with various teams to teach modern SLO-driven workflows and alerting.
+          - Introduced <i>extreme ownership</i>, empowering team members to own their work both internally and externally.
         Badges: ['Team leadership', 'Product management', 'Technical vision', 'Stakeholder management', 'Mentorship']
       - Title: Site Reliability Engineer
         Date: Nov 2022 - Mar 2024
         Details:
           - Introduced SRE principles and practices from 'the Google SRE book'.
           - Migrated workflows from monitoring known-unknowns, to observing unknown-unknowns.
-          - Introduced OpenTelemetry and instrumenting wide-structured events to development teams.
+          - Drove adoption of OpenTelemetry instrumentation of wide-structured events across teams.
           - Developed and delivered an incident response and management framework.
-          - Began migration from metrics alerting, to multi-threshold error budget burn rate alerting.
+          - Automated deployment of multi-regional observability stack, hooking into dozens of kubernetes clusters across various cloud providers.
         Badges: ['Grafana', 'Prometheus', 'Thanos', 'Tempo', 'Loki', 'OpenTelemetry', 'Kubernetes']
   - Employer: SafetyCulture
     Place: Sydney, Australia
